@@ -4,6 +4,8 @@
 
 I have recently completed an in-depth Exploratory Data Analysis (EDA) on Walmart's sales data, uncovering valuable insights that can drive key business decisions. By analyzing three months of data (January - March), I have identified several crucial patterns related to customer behavior, product performance, and branch operations.
 
+---
+
 ### **Key Findings:**
 - **Product Performance:** Electronic accessories and Food & Beverages emerged as the top performing product categories in terms of total sales.
 - **Branch Comparison:** Unique performance trends were observed across branches A, B, and C.
@@ -11,7 +13,7 @@ I have recently completed an in-depth Exploratory Data Analysis (EDA) on Walmart
 - **Temporal Patterns:** Visualized daily and monthly sales trends using moving averages.
 - **Payment Methods:** Analyzed payment method preferences across different customer segments.
 
-### 🛠️ **Technical Skills Demonstrated:**
+### **Technical Skills Demonstrated:**
 - **Data Cleaning:** Tackled outliers and ensured data quality for accurate insights.
 - **Statistical Analysis:** Applied descriptive statistics to understand sales distributions.
 - **Data Visualization:** Created meaningful visualizations using Matplotlib and Seaborn.
