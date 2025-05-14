@@ -25,15 +25,15 @@ I have recently completed an in-depth Exploratory Data Analysis (EDA) on Walmart
 - **Matplotlib & Seaborn** for insightful visualizations
 - **Jupyter Notebook** for an efficient analysis workflow
 
-### 🔜 **What's Next:**
+### **What's Next for me?:**
 I’m currently building an interactive Streamlit dashboard to make these insights accessible to business stakeholders. The dashboard will enable users to:
 - Filter data by time period, product category, and branch
 - Compare performance metrics across various dimensions
 - Generate dynamic visualizations based on selected parameters
 - Export insights for reporting and presentations
 
-### 🤝 **Connect & Collaborate:**
-I’m passionate about transforming data into actionable insights for businesses. If you’re interested in retail analytics, dashboard development, or data visualization, I’d love to connect! Feel free to reach out for feedback or collaboration opportunities.
+## **Connect & Collaborate:**
+I’m extremely passionate about transforming data into actionable insights for businesses. If you’re interested in retail analytics, dashboard development, or data visualization, I’d love to connect! Feel free to reach out for feedback or collaboration opportunities.
 
 #DataAnalysis #RetailAnalytics #Python #DataVisualization #BusinessIntelligence #Streamlit #DataScience
 
