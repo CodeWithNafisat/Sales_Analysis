@@ -2,7 +2,7 @@
 
 ---
 
-I recently completed an in-depth exploratory data analysis (EDA) on Walmart's sales data, uncovering valuable insights that can drive key business decisions. By analyzing three months of data (January-March), I identified several critical patterns related to customer behavior, product performance, and branch operations.
+I have recently completed an in-depth Exploratory Data Analysis (EDA) on Walmart's sales data, uncovering valuable insights that can drive key business decisions. By analyzing three months of data (January - March), I have identified several crucial patterns related to customer behavior, product performance, and branch operations.
 
 ### 🔑 **Key Findings:**
 - **Product Performance:** Electronic accessories and Food & Beverages emerged as the top performing product categories in terms of total sales.
