@@ -20,7 +20,7 @@ I have recently completed an in-depth Exploratory Data Analysis (EDA) on Walmart
 - **Time Series Analysis:** Incorporated moving averages to identify emerging sales trends.
 - **Categorical Analysis:** Cross-analyzed product performance by branch and customer type.
 
-### 🔧 **Tools & Libraries Used:**
+### **Tools & Libraries Used:**
 - **Python** (Pandas, NumPy)
 - **Matplotlib & Seaborn** for insightful visualizations
 - **Jupyter Notebook** for an efficient analysis workflow
